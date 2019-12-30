@@ -1,25 +1,17 @@
 {
   "files": {
-    "main.css": "/zero_waste/static/css/main.b654c5ab.chunk.css",
-    "main.js": "/zero_waste/static/js/main.aa8b344d.chunk.js",
-    "main.js.map": "/zero_waste/static/js/main.aa8b344d.chunk.js.map",
-    "runtime-main.js": "/zero_waste/static/js/runtime-main.91fd8b46.js",
-    "runtime-main.js.map": "/zero_waste/static/js/runtime-main.91fd8b46.js.map",
-    "static/css/2.2cfa1b23.chunk.css": "/zero_waste/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.e4802fc8.chunk.js": "/zero_waste/static/js/2.e4802fc8.chunk.js",
-    "static/js/2.e4802fc8.chunk.js.map": "/zero_waste/static/js/2.e4802fc8.chunk.js.map",
+    "main.css": "/zero_waste/static/css/main.ea463d8d.chunk.css",
+    "main.js": "/zero_waste/static/js/main.d87e9c1c.chunk.js",
+    "main.js.map": "/zero_waste/static/js/main.d87e9c1c.chunk.js.map",
+    "runtime-main.js": "/zero_waste/static/js/runtime-main.1dcc3236.js",
+    "runtime-main.js.map": "/zero_waste/static/js/runtime-main.1dcc3236.js.map",
+    "static/css/2.4e89ce74.chunk.css": "/zero_waste/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.b6db1de9.chunk.js": "/zero_waste/static/js/2.b6db1de9.chunk.js",
+    "static/js/2.b6db1de9.chunk.js.map": "/zero_waste/static/js/2.b6db1de9.chunk.js.map",
     "index.html": "/zero_waste/index.html",
-    "precache-manifest.16590855b9a08cdb58b44feffe182e11.js": "/zero_waste/precache-manifest.16590855b9a08cdb58b44feffe182e11.js",
+    "precache-manifest.104512c038ab81510270b0fafa9df0ce.js": "/zero_waste/precache-manifest.104512c038ab81510270b0fafa9df0ce.js",
     "service-worker.js": "/zero_waste/service-worker.js",
-    "static/css/2.2cfa1b23.chunk.css.map": "/zero_waste/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.b654c5ab.chunk.css.map": "/zero_waste/static/css/main.b654c5ab.chunk.css.map",
-    "static/js/2.e4802fc8.chunk.js.LICENSE": "/zero_waste/static/js/2.e4802fc8.chunk.js.LICENSE"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.91fd8b46.js",
-    "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.e4802fc8.chunk.js",
-    "static/css/main.b654c5ab.chunk.css",
-    "static/js/main.aa8b344d.chunk.js"
-  ]
+    "static/css/2.4e89ce74.chunk.css.map": "/zero_waste/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/main.ea463d8d.chunk.css.map": "/zero_waste/static/css/main.ea463d8d.chunk.css.map"
+  }
 }
