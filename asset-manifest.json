@@ -1,17 +1,13 @@
 {
   "files": {
-    "main.css": "/zero_waste/static/css/main.ea463d8d.chunk.css",
-    "main.js": "/zero_waste/static/js/main.d87e9c1c.chunk.js",
-    "main.js.map": "/zero_waste/static/js/main.d87e9c1c.chunk.js.map",
-    "runtime-main.js": "/zero_waste/static/js/runtime-main.1dcc3236.js",
-    "runtime-main.js.map": "/zero_waste/static/js/runtime-main.1dcc3236.js.map",
-    "static/css/2.4e89ce74.chunk.css": "/zero_waste/static/css/2.4e89ce74.chunk.css",
-    "static/js/2.b6db1de9.chunk.js": "/zero_waste/static/js/2.b6db1de9.chunk.js",
-    "static/js/2.b6db1de9.chunk.js.map": "/zero_waste/static/js/2.b6db1de9.chunk.js.map",
-    "index.html": "/zero_waste/index.html",
-    "precache-manifest.104512c038ab81510270b0fafa9df0ce.js": "/zero_waste/precache-manifest.104512c038ab81510270b0fafa9df0ce.js",
-    "service-worker.js": "/zero_waste/service-worker.js",
-    "static/css/2.4e89ce74.chunk.css.map": "/zero_waste/static/css/2.4e89ce74.chunk.css.map",
-    "static/css/main.ea463d8d.chunk.css.map": "/zero_waste/static/css/main.ea463d8d.chunk.css.map"
+    "main.js": "/sem1234d/ARQuests_in_pocket/static/js/main.dfee0ebd.chunk.js",
+    "main.js.map": "/sem1234d/ARQuests_in_pocket/static/js/main.dfee0ebd.chunk.js.map",
+    "runtime-main.js": "/sem1234d/ARQuests_in_pocket/static/js/runtime-main.0bb55308.js",
+    "runtime-main.js.map": "/sem1234d/ARQuests_in_pocket/static/js/runtime-main.0bb55308.js.map",
+    "static/js/2.c3a01a2e.chunk.js": "/sem1234d/ARQuests_in_pocket/static/js/2.c3a01a2e.chunk.js",
+    "static/js/2.c3a01a2e.chunk.js.map": "/sem1234d/ARQuests_in_pocket/static/js/2.c3a01a2e.chunk.js.map",
+    "index.html": "/sem1234d/ARQuests_in_pocket/index.html",
+    "precache-manifest.3954e066e830e358ee50ba244f8e11c1.js": "/sem1234d/ARQuests_in_pocket/precache-manifest.3954e066e830e358ee50ba244f8e11c1.js",
+    "service-worker.js": "/sem1234d/ARQuests_in_pocket/service-worker.js"
   }
 }
