@@ -25,7 +25,13 @@ class App extends React.Component{
 constructor(props){
   super(props);
     this.state = {
+       currentCard:{
+         name:"Банан",
+         kg:0.001,
+         description:"Просто банан",
+         img:null
 
+       }
     }
 }
    componentDidMont(){
